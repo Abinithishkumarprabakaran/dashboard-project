@@ -1,0 +1,83 @@
+.border-left-primary{
+    border-left: 0.25rem solid #4e72df
+}
+
+.earn-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para-content{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.icons{
+    margin-left: auto;
+}
+
+.lst{
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.dashboard{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0.75rem 10px 0.75rem;
+}
+
+label {
+    display: inline-block;
+    margin-right: 12px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-content{
+    margin: 0px;
+}
+
+.chart-row{
+    display: flex;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.float-right{
+    float: right;
+}
+
+.checking-progress{
+    margin: 12px 12px 12px 12px;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.pro1{
+    margin: 15px 0px 15px 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+canvas{
+    height: 320px;
+    width: 658px;
+}
